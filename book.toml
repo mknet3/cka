@@ -1,0 +1,12 @@
+[book]
+title = "CKA 101"
+authors = ["Manuel Cañete"]
+description = ""
+language = "en"
+
+[rust]
+edition = "2021"
+
+[output.html]
+site-url = "/cka/"
+git-repository-url = "https://github.com/mknet3/cka"
